@@ -22,4 +22,4 @@ http://ec2-13-127-106-247.ap-south-1.compute.amazonaws.com/
 - Python flask
 - Python SQLAlchemy
 - psycopg2
-- Configures `catalog- Restaurant-menu` project to be accessable at port 80 of server
+- Configured `catalog- Restaurant-menu` project to be accessable at port 80 of server
